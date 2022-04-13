@@ -754,6 +754,10 @@ button {
      color: #fff;
 }
 
+.processes {
+     padding-bottom: 50px;
+}
+
 ul.cont li {
      color: #8a9397;
      font-size: 17px;
@@ -809,9 +813,3 @@ ul.cont li {
      width: 100%;
 }
 
-.about_us_img img{
-     width: 100%;
-	    max-width: 300px;
-     max-height: 300px;
-     border-radius: 50%;
-}
