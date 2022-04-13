@@ -1,5 +1,4 @@
 function contactRequest(form) {
-    //created by Mark VanDam
     var inName = form.name.value;
     var subject = "Web Form Submission";
     var inEmail = form.email.value;
