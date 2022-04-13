@@ -500,9 +500,6 @@ button {
 /** about section **/
 
 .about {
-     background: url(../images/ab_bg.png);
-     background-repeat: no-repeat;
-     background-size: 100% 100%;
      padding: 90px 0;
 }
 
@@ -760,6 +757,11 @@ button {
 
 .processes {
      padding-bottom: 50px;
+}
+
+.teamdesc {
+     padding-bottom: 50px;
+     padding-right: 30px;
 }
 
 
